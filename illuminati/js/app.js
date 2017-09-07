@@ -16,6 +16,10 @@ angular.module('sweaApp', ['ngRoute'])
 				templateUrl: 'pages/register.html',
 				controller: 'regCtrl'
 			})
+			.when('/faq', {
+				templateUrl: 'pages/faq.html',
+				controller: 'faqCtrl'
+			})
 			.otherwise({
 				redirectTo: '/login'
 			});
@@ -25,7 +29,8 @@ angular.module('sweaApp', ['ngRoute'])
 // Global Controller
 angular.module('sweaApp')
 	.controller('globalCtrl', function ($rootScope, $location, $http, $routeParams) {
-		$rootScope.apiUrl = 'http://localhost:5000/';
+		//		$rootScope.apiUrl = 'http://localhost:5000/';
+		$rootScope.apiUrl = 'https://illuminati.optimuscp.io/';
 		$rootScope.checkAuth = function () {
 			if (Cookies.get('authKey')) {
 				$rootScope.authKey = Cookies.get('authKey');
@@ -171,6 +176,10 @@ angular.module('sweaApp')
 			});
 		};
 	});
+
+// FAQ Controller
+angular.module('sweaApp')
+	.controller('faqCtrl', function ($scope) {});
 
 // Home Controller
 angular.module('sweaApp')

@@ -25,7 +25,8 @@ angular.module('sweaApp', ['ngRoute'])
 // Global Controller
 angular.module('sweaApp')
 	.controller('globalCtrl', function ($rootScope, $location, $http, $routeParams) {
-		$rootScope.apiUrl = 'http://localhost:5000/';
+		//		$rootScope.apiUrl = 'http://localhost:5000/';
+		$rootScope.apiUrl = 'https://illuminati.optimuscp.io/';
 		$rootScope.checkAuth = function () {
 			if (Cookies.get('adminKey')) {
 				$rootScope.adminKey = Cookies.get('adminKey');

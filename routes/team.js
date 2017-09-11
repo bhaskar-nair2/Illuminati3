@@ -74,6 +74,17 @@ app.post('/register', function (req, res) {
 								status: true,
 								msg: 'Successfully Registered!!'
 							});
+							var from = new helper.Email('support@sweassociation.in');
+							var to = new helper.Email(req.body.user.email);
+							var subject = 'Registration Confirmation for ILLUMINATI';
+							var body = new helper.Content('text/html', 'Hello ' + req.body.user.name + ",<br> Your team " + req.body.teamId + " is now registered,you can now on login to the portal. <a href='https://sweassociation.in/illuminati/'>Click Here</a>");
+							var mail = new helper.Mail(from, subject, to, body);
+							var request = sg.emptyRequest({
+								method: 'POST',
+								path: '/v3/mail/send',
+								body: mail.toJSON(),
+							});
+							sg.API(request);
 						})
 						.catch(function (err) {
 							res.json({
@@ -471,7 +482,7 @@ app.post('/sendStatus', function (req, res) {
 						var from = new helper.Email('support@sweassociation.in');
 						var to = new helper.Email(team.users[i].email);
 						var subject = 'Payment Status from ILLUMINATI';
-						var body = new helper.Content('text/html', 'Hello ' + team.users[i].name + ",<br> Your teams payment status has been updated, login to check. <a href='https://sweassociation.in/illuminati/'>Click Here</a>");
+						var body = new helper.Content('text/html', 'Hello ' + team.users[i].name + ",<br> Your team " + team.teamId + " payment status has been updated, login to check. <a href='https://sweassociation.in/illuminati/'>Click Here</a>");
 						var mail = new helper.Mail(from, subject, to, body);
 						var request = sg.emptyRequest({
 							method: 'POST',

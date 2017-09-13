@@ -13,3 +13,8 @@
 .text-white {
 	color: white;
 }
+
+.sponsors {
+	max-height: 100px;
+	max-width: 400px;
+}

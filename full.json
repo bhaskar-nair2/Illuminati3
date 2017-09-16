@@ -1,0 +1,1696 @@
+[{
+	"teamId": "Masterminds",
+	"users": [{
+		"phone": 7809383231,
+		"name": "Bishal Sikdar",
+		"email": "bishal_sikdar@srmuniv.edu.in",
+		"regno": "RA1711001010133",
+		"branch": "CIVIL ENGINEERING",
+		"_id": "59b01528025e6e79d3d68257"
+	}, {
+		"phone": 7008479148,
+		"name": "Satyam Rout",
+		"email": "satyam_rout@srmuniv.edu.in",
+		"regno": "RA1711004010411",
+		"branch": "E. C. E",
+		"_id": "59b0159e025e6e79d3d68258"
+	}],
+	"payment": {
+		"up": 100,
+		"down": 100
+	},
+	"user_count": 2,
+	"transaction": []
+}, {
+	"teamId": "PLCURE",
+	"users": [{
+		"phone": 9647849945,
+		"name": "Jayraj Roshan",
+		"email": "jayraj_roshan@srmuniv.edu.in",
+		"regno": "RA1711004010362",
+		"branch": "Electronics & Communication Engineering",
+		"_id": "59b13b6d025e6e79d3d6825a"
+	}, {
+		"phone": 9748020108,
+		"name": "Romit Sen",
+		"email": "romit_sen@srmuniv.edu.in",
+		"regno": "RA1711004010328",
+		"branch": "Electronics and Communication Engineering",
+		"_id": "59b13ce0025e6e79d3d6825b"
+	}],
+	"payment": {
+		"up": 100,
+		"down": 100
+	},
+	"user_count": 2,
+	"transaction": []
+}, {
+	"teamId": "PARAM",
+	"users": [{
+		"phone": 9784371098,
+		"name": "Rupendra Pratap Singh",
+		"email": "rupendra_pratap@srmuniv.edu.in",
+		"regno": "RA1711008010183",
+		"branch": "Information Technology",
+		"_id": "59b42395025e6e79d3d68263"
+	}, {
+		"phone": 9413432005,
+		"name": "Rachit Sharma",
+		"email": "rachit_sharma@srmuniv.edu.in",
+		"regno": "RA1711003010349",
+		"branch": "Computer science and engineering",
+		"_id": "59b42466025e6e79d3d68264"
+	}],
+	"payment": {
+		"up": 100,
+		"down": 100
+	},
+	"user_count": 2,
+	"transaction": []
+}, {
+	"teamId": "The_Alphas",
+	"users": [{
+		"phone": 9123203424,
+		"name": "Prashant Singh Chauhan",
+		"email": "prashant_singhchauhan@srmuniv.edu.in",
+		"regno": "RA1711008010136",
+		"branch": "Information Technology",
+		"_id": "59b55ca3025e6e79d3d68266"
+	}, {
+		"phone": 9978568549,
+		"name": "Ronak Singhania",
+		"email": "ronak_subhash@srmuniv.edu.in",
+		"regno": "RA1711003010586",
+		"branch": "Computer Science Engineering",
+		"_id": "59b55d67025e6e79d3d68267"
+	}],
+	"payment": {
+		"up": 100,
+		"down": 100
+	},
+	"user_count": 2,
+	"transaction": []
+}, {
+	"teamId": "The_Mindbenders",
+	"users": [{
+		"phone": 7550237835,
+		"name": "Shreyas L",
+		"email": "shreyas_l@srmuniv.edu.in",
+		"regno": "RA1711003010597",
+		"branch": "Computer science and engineering",
+		"_id": "59b56a10025e6e79d3d68269"
+	}, {
+		"phone": 8888841338,
+		"name": "Suvan Shirsat",
+		"email": "suvan_sadashiv@srmuniv.edu.in",
+		"regno": "RA1711003010565",
+		"branch": "Computer science and engineering",
+		"_id": "59b56b0c025e6e79d3d6826a"
+	}],
+	"payment": {
+		"up": 100,
+		"down": 100
+	},
+	"user_count": 2,
+	"transaction": []
+}, {
+	"teamId": "TEAM_YELLOW",
+	"users": [{
+		"phone": 8240593718,
+		"name": "Nilargha Roy",
+		"email": "nilargha_roy@srmuniv.edu.in",
+		"regno": "RA1711008010169",
+		"branch": "Information Technology",
+		"_id": "59b608ef73709a08dd3b9ee9"
+	}],
+	"payment": {
+		"up": 100,
+		"down": 100
+	},
+	"user_count": 1,
+	"transaction": []
+}, {
+	"teamId": "punstars",
+	"users": [{
+		"phone": 7673955110,
+		"name": "Abdulrehman Mohamed Mahmud",
+		"email": "abdulrehman_m@srmuniv.edu.in",
+		"regno": "RA1711003010457",
+		"branch": "Yet to be filled",
+		"_id": "59b6093973709a08dd3b9eeb"
+	}],
+	"payment": {
+		"up": 100,
+		"down": 100
+	},
+	"user_count": 1,
+	"transaction": []
+}, {
+	"teamId": "The_Infernals",
+	"users": [{
+		"phone": 9123502404,
+		"name": "Arpan Pardeshi",
+		"email": "arpan_neeraj@srmuniv.edu.in",
+		"regno": "RA1711014010066",
+		"branch": "Yet to be filled",
+		"_id": "59b6099f73709a08dd3b9eed"
+	}],
+	"payment": {
+		"up": 100,
+		"down": 100
+	},
+	"user_count": 1,
+	"transaction": []
+}, {
+	"teamId": "Bellatrix",
+	"users": [{
+		"phone": 9597199041,
+		"name": "Parvez Rumi",
+		"email": "parvez_rumi@srmuniv.edu.in",
+		"regno": "RA1711004010121",
+		"branch": "Yet to be filled",
+		"_id": "59b609fd73709a08dd3b9eef"
+	}],
+	"payment": {
+		"up": 100,
+		"down": 100
+	},
+	"user_count": 1,
+	"transaction": []
+}, {
+	"teamId": "Team_Spark",
+	"users": [{
+		"phone": 9873005111,
+		"name": "Vysakh Pradeep",
+		"email": "vysakh_pradeep@srmuniv.edu.in",
+		"regno": "RA1711007010031",
+		"branch": "Chemical engineering",
+		"_id": "59b61bb373709a08dd3b9ef1"
+	}, {
+		"phone": 9952688959,
+		"name": "S Nisha",
+		"email": "nisha_sreedhar@srmuniv.edu.in",
+		"regno": "RA1711007010026",
+		"branch": "Chemical engineering",
+		"_id": "59b61cdc73709a08dd3b9ef2"
+	}],
+	"payment": {
+		"up": 100,
+		"down": 100
+	},
+	"user_count": 2,
+	"transaction": []
+}, {
+	"teamId": "DynamicDuo",
+	"users": [{
+		"phone": 8910118766,
+		"name": "Adityavikram Sethia",
+		"email": "adityavikram_sethia@srmuniv.edu.in",
+		"regno": "RA1711020010130",
+		"branch": "Software Engineering",
+		"_id": "59b64fa873709a08dd3b9ef4"
+	}, {
+		"phone": 9302289000,
+		"name": "Garvit Kothari",
+		"email": "garvit_kothari@srmuniv.edu.in",
+		"regno": "RA1711020010162",
+		"branch": "Software Engineering",
+		"_id": "59b6505b73709a08dd3b9ef5"
+	}],
+	"payment": {
+		"up": 100,
+		"down": 100
+	},
+	"user_count": 2,
+	"transaction": []
+}, {
+	"teamId": "Quizberts",
+	"users": [{
+		"phone": 9131673224,
+		"name": "VENKATESH CHAKRAVARTULA",
+		"email": "venkatesh_chakravartula@srmuniv.edu.in",
+		"regno": "RA1711004010173",
+		"branch": "Electronics and Communication Engineering",
+		"_id": "59b6738c73709a08dd3b9ef7"
+	}, {
+		"phone": 7358402407,
+		"name": "Shriya Kapoor",
+		"email": "shriya_kapoor@srmuniv.edu.in",
+		"regno": "RA1711004010177",
+		"branch": "Electronics and Communication Engineering",
+		"_id": "59b68c7873709a08dd3b9efb"
+	}],
+	"payment": {
+		"up": 100,
+		"down": 100
+	},
+	"user_count": 2,
+	"transaction": []
+}, {
+	"teamId": "Legends",
+	"users": [{
+		"phone": 8849932209,
+		"name": "Vrishank Vajpayee",
+		"email": "vrishank_vivek@srmuniv.edu.in",
+		"regno": "RA1711003010992",
+		"branch": "Computer Science Engineering",
+		"_id": "59b67e8873709a08dd3b9ef9"
+	}, {
+		"phone": 9554858357,
+		"name": "Vivek singh",
+		"email": "vivek_gaurav@srmuniv.edu.in",
+		"regno": "RA1711003010946",
+		"branch": "Computer Science Engineering",
+		"_id": "59b67efe73709a08dd3b9efa"
+	}],
+	"payment": {
+		"up": 100,
+		"down": 100
+	},
+	"user_count": 2,
+	"transaction": []
+}, {
+	"teamId": "Failures",
+	"users": [{
+		"phone": 9057233956,
+		"name": "Priyesh choudhary",
+		"email": "priyesh_choudhary@srmuniv.edu.in",
+		"regno": "RA1711005010163",
+		"branch": "Electrical and electronics",
+		"_id": "59b7742c73709a08dd3b9efd"
+	}, {
+		"phone": 8334859995,
+		"name": "Srihari Anand",
+		"email": "srihari_anandsri@srmuniv.edu.in",
+		"regno": "RA1711005010131",
+		"branch": "Electrical and Electronics Engineering",
+		"_id": "59b774ca73709a08dd3b9efe"
+	}],
+	"payment": {
+		"up": 100,
+		"down": 100
+	},
+	"user_count": 2,
+	"transaction": []
+}, {
+	"teamId": "Super_nova",
+	"users": [{
+		"phone": 9962937019,
+		"name": "Kingshuk subhojit Mukherjee",
+		"email": "kingshuk_subojit@srmuniv.edu.in",
+		"regno": "RA1711002010198",
+		"branch": "Yet to fill",
+		"_id": "59b7ea0973709a08dd3b9f00"
+	}],
+	"payment": {
+		"up": 100,
+		"down": 100
+	},
+	"user_count": 1,
+	"transaction": []
+}, {
+	"teamId": "SRM_Geeks",
+	"users": [{
+		"phone": 9962026415,
+		"name": "Varoon",
+		"email": "varoon_kannan@srmuniv.edu.in",
+		"regno": "RA1711005010003",
+		"branch": "Yet to fill",
+		"_id": "59b7ea8e73709a08dd3b9f02"
+	}],
+	"payment": {
+		"up": 100,
+		"down": 100
+	},
+	"user_count": 1,
+	"transaction": []
+}, {
+	"teamId": "The_Wizards",
+	"users": [{
+		"phone": 8141315322,
+		"name": "Shashwat Vatsa",
+		"email": "shashwat_satytndra@srmuniv.edu.in",
+		"regno": "RA1711020010097",
+		"branch": "Software Engineering",
+		"_id": "59b7eadc73709a08dd3b9f04"
+	}, {
+		"phone": 8700209478,
+		"name": "Avirup Chattaraj",
+		"email": "avirup_chattaraj@srmuniv.edu.in",
+		"regno": "RA1711020010095",
+		"branch": "Software Engineering",
+		"_id": "59b8113573709a08dd3b9f92"
+	}],
+	"payment": {
+		"up": 100,
+		"down": 100
+	},
+	"user_count": 2,
+	"transaction": []
+}, {
+	"teamId": "RATNAM",
+	"users": [{
+		"phone": 9405210347,
+		"name": "Ratik",
+		"email": "ratik_rajeev@srmuniv.edu.in",
+		"regno": "RA1711004010488",
+		"branch": "Yet to fill",
+		"_id": "59b7eb1d73709a08dd3b9f06"
+	}],
+	"payment": {
+		"up": 100,
+		"down": 100
+	},
+	"user_count": 1,
+	"transaction": []
+}, {
+	"teamId": "spectrum",
+	"users": [{
+		"phone": 9629433951,
+		"name": "Vaishnavi Duraisamy",
+		"email": "vaishnavi_duraisamy@srmuniv.edu.in",
+		"regno": "RA1711201010021",
+		"branch": "Yet To Fill",
+		"_id": "59b7eb5d73709a08dd3b9f08"
+	}],
+	"payment": {
+		"up": 100,
+		"down": 100
+	},
+	"user_count": 1,
+	"transaction": []
+}, {
+	"teamId": "The_Flying_Warriors",
+	"users": [{
+		"phone": 9979209063,
+		"name": "Kunal Balasubramaniam",
+		"email": "kunal_balasubramaniam@srmuniv.edu.in",
+		"regno": "RA1711020010093",
+		"branch": "Yet to fill",
+		"_id": "59b7eb9473709a08dd3b9f0a"
+	}],
+	"payment": {
+		"up": 100,
+		"down": 100
+	},
+	"user_count": 1,
+	"transaction": []
+}, {
+	"teamId": "Techomatic",
+	"users": [{
+		"phone": 8433045908,
+		"name": "Radhika Saxena",
+		"email": "radhika_saxena@srmuniv.edu.in",
+		"regno": "RA1711020010127",
+		"branch": "Yet to fill",
+		"_id": "59b7ec2573709a08dd3b9f0c"
+	}],
+	"payment": {
+		"up": 100,
+		"down": 100
+	},
+	"user_count": 1,
+	"transaction": []
+}, {
+	"teamId": "The_Rolling_Stone",
+	"users": [{
+		"phone": 8240216189,
+		"name": "Swastik Banerjee",
+		"email": "swastik_banerjee@srmuniv.edu.in",
+		"regno": "RA1711008010239",
+		"branch": "Yet To Fill",
+		"_id": "59b7ec4973709a08dd3b9f0e"
+	}],
+	"payment": {
+		"up": 100,
+		"down": 100
+	},
+	"user_count": 1,
+	"transaction": []
+}, {
+	"teamId": "Tapan_Dandawala",
+	"users": [{
+		"phone": 1234567890,
+		"name": "Tapan Dandawala",
+		"email": "tapan_rajesh@srmuniv.edu.in",
+		"regno": "RA1711003010532",
+		"branch": "Yet to fill",
+		"_id": "59b7ec9073709a08dd3b9f10"
+	}],
+	"payment": {
+		"up": 100,
+		"down": 100
+	},
+	"user_count": 1,
+	"transaction": []
+}, {
+	"teamId": "Revotron",
+	"users": [{
+		"phone": 1234567890,
+		"name": "Saurabh Sinha",
+		"email": "saurabh6312@srmuniv.edu.in",
+		"regno": "RA1711008010240",
+		"branch": "Yet to fill",
+		"_id": "59b7ecfa73709a08dd3b9f12"
+	}],
+	"payment": {
+		"up": 100,
+		"down": 100
+	},
+	"user_count": 1,
+	"transaction": []
+}, {
+	"teamId": "Yash_Tarwe",
+	"users": [{
+		"phone": 9113445972,
+		"name": "Yash Tarwe",
+		"email": "yash_tarwe@srmuniv.edu.in",
+		"regno": "RA1711003010255",
+		"branch": "Yet to fill",
+		"_id": "59b7ed3773709a08dd3b9f14"
+	}],
+	"payment": {
+		"up": 100,
+		"down": 100
+	},
+	"user_count": 1,
+	"transaction": []
+}, {
+	"teamId": "Adityas",
+	"users": [{
+		"phone": 9790247342,
+		"name": "Aadhithya Krishna",
+		"email": "aadhithyakrishna_p@srmuniv.edu.in",
+		"regno": "RA1711009010129",
+		"branch": "Biotechnology",
+		"_id": "59b7edca73709a08dd3b9f16"
+	}, {
+		"phone": 9498030539,
+		"name": "Jyothir Adithya",
+		"email": "Jyothiradithya_Venkataraman@srmuniv.edu.in",
+		"regno": "RA1711005010061",
+		"branch": "Electrical and Electronics Engineering",
+		"_id": "59b7ef1473709a08dd3b9f1d"
+	}],
+	"payment": {
+		"up": 100,
+		"down": 100
+	},
+	"user_count": 2,
+	"transaction": []
+}, {
+	"teamId": "hiesenberg",
+	"users": [{
+		"phone": 8939379842,
+		"name": "Gaurav kedia",
+		"email": "gaurav_kedia@srmuniv.edu.in",
+		"regno": "RA1711003010348",
+		"branch": "computer science engineering",
+		"_id": "59b7ee5c73709a08dd3b9f18"
+	}, {
+		"phone": 8340411791,
+		"name": "mayank mrinal",
+		"email": "mayank_mrinal@srmuniv.edu.in",
+		"regno": "RA1711004010150",
+		"branch": "Electronics and communication engineering",
+		"_id": "59b8872273709a08dd3b9f93"
+	}],
+	"payment": {
+		"up": 100,
+		"down": 100
+	},
+	"user_count": 2,
+	"transaction": []
+}, {
+	"teamId": "Habitat_69",
+	"users": [{
+		"phone": 7397420492,
+		"name": "Abhishekh Tanaji",
+		"email": "abhishekh_tanaji@srmuniv.edu.in",
+		"regno": "RA1711201010032",
+		"branch": "Yet To Fill",
+		"_id": "59b7ee6d73709a08dd3b9f1a"
+	}],
+	"payment": {
+		"up": 100,
+		"down": 100
+	},
+	"user_count": 1,
+	"transaction": []
+}, {
+	"teamId": "Le_Corbusier",
+	"users": [{
+		"phone": 8169101368,
+		"name": "Jeet Thakkar",
+		"email": "tjeet51@srmuniv.edu.in",
+		"regno": "RA1711201010066",
+		"branch": "Yet to fill",
+		"_id": "59b7eecd73709a08dd3b9f1c"
+	}],
+	"payment": {
+		"up": 100,
+		"down": 100
+	},
+	"user_count": 1,
+	"transaction": []
+}, {
+	"teamId": "Scholars",
+	"users": [{
+		"phone": 9790629122,
+		"name": "Hemen Shah",
+		"email": "hemen_dilie@srmuniv.edu.in",
+		"regno": "RA1711020010051",
+		"branch": "Yet to fill",
+		"_id": "59b7efea73709a08dd3b9f21"
+	}],
+	"payment": {
+		"up": 100,
+		"down": 100
+	},
+	"user_count": 1,
+	"transaction": []
+}, {
+	"teamId": "Incredibles",
+	"users": [{
+		"phone": 9842346079,
+		"name": "Chava Teja",
+		"email": "chava_pani@srmuniv.edu.in",
+		"regno": "RA1711011010155",
+		"branch": "yet to fill",
+		"_id": "59b7f03b73709a08dd3b9f23"
+	}],
+	"payment": {
+		"up": 100,
+		"down": 100
+	},
+	"user_count": 1,
+	"transaction": []
+}, {
+	"teamId": "Victorious",
+	"users": [{
+		"phone": 9677064120,
+		"name": "Badrish A",
+		"email": "badrrish_a@srmuniv.edu.in",
+		"regno": "RA1711018010189",
+		"branch": "Yet to fill",
+		"_id": "59b7f0b073709a08dd3b9f25"
+	}],
+	"payment": {
+		"up": 100,
+		"down": 100
+	},
+	"user_count": 1,
+	"transaction": []
+}, {
+	"teamId": "Wreckers",
+	"users": [{
+		"phone": 9000101055,
+		"name": "Chanakya Reddy",
+		"email": "chanakya_reddy@srmuniv.edu.in",
+		"regno": "RA1711019010043",
+		"branch": "Yet to fill",
+		"_id": "59b7f18373709a08dd3b9f27"
+	}],
+	"payment": {
+		"up": 100,
+		"down": 100
+	},
+	"user_count": 1,
+	"transaction": []
+}, {
+	"teamId": "Furious",
+	"users": [{
+		"phone": 9704380416,
+		"name": "Rahul Dev",
+		"email": "rahuldev_b@srmuniv.edu.in",
+		"regno": "RA1711017010047",
+		"branch": "Yet to fill",
+		"_id": "59b7f1b073709a08dd3b9f29"
+	}],
+	"payment": {
+		"up": 100,
+		"down": 100
+	},
+	"user_count": 1,
+	"transaction": []
+}, {
+	"teamId": "tamil_pasanga",
+	"users": [{
+		"phone": 9600466615,
+		"name": "Pradeep Sundar",
+		"email": "pradeep_sundar@srmuniv.edu.in",
+		"regno": "RA1711201010056",
+		"branch": "Yet To Fill",
+		"_id": "59b7f1ce73709a08dd3b9f2b"
+	}],
+	"payment": {
+		"up": 100,
+		"down": 100
+	},
+	"user_count": 1,
+	"transaction": []
+}, {
+	"teamId": "Clegane",
+	"users": [{
+		"phone": 9176315356,
+		"name": "Anirutthan N",
+		"email": "anirutthan_n@srmuniv.edu.in",
+		"regno": "RA1711018010059",
+		"branch": "Yet to fill",
+		"_id": "59b7f1de73709a08dd3b9f2d"
+	}],
+	"payment": {
+		"up": 100,
+		"down": 100
+	},
+	"user_count": 1,
+	"transaction": []
+}, {
+	"teamId": "yanaz",
+	"users": [{
+		"phone": 7358626018,
+		"name": "Shinaz Naziha",
+		"email": "shinaz_naziha@srmuniv.edu.in",
+		"regno": "RA1711013010029",
+		"branch": "Yet to fill",
+		"_id": "59b7f21573709a08dd3b9f2f"
+	}],
+	"payment": {
+		"up": 100,
+		"down": 100
+	},
+	"user_count": 1,
+	"transaction": []
+}, {
+	"teamId": "Illumin_Birds",
+	"users": [{
+		"phone": 9110511882,
+		"name": "Unnam Mourya Sai",
+		"email": "unnam_mouryasai@srmuniv.edu.in",
+		"regno": "RA1711004010624",
+		"branch": "Yet To Fill",
+		"_id": "59b7f23773709a08dd3b9f31"
+	}, {
+		"phone": 9160407186,
+		"name": "Meghana dasari",
+		"email": "meghana_dasari@srmuniv.edu.in",
+		"regno": "RA1711004010194",
+		"branch": "Electronics and communication engineering",
+		"_id": "59b7ffcd73709a08dd3b9f8d"
+	}],
+	"payment": {
+		"up": 100,
+		"down": 100
+	},
+	"user_count": 2,
+	"transaction": []
+}, {
+	"teamId": "Restorators",
+	"users": [{
+		"phone": 9597175272,
+		"name": "Vibhor",
+		"email": "vibhor_seth@srmuniv.edu.in",
+		"regno": "RA1711009010007",
+		"branch": "Yet To Fill",
+		"_id": "59b7f2a273709a08dd3b9f33"
+	}],
+	"payment": {
+		"up": 100,
+		"down": 100
+	},
+	"user_count": 1,
+	"transaction": []
+}, {
+	"teamId": "BESTIES",
+	"users": [{
+		"phone": 9087011205,
+		"name": "Nadhiyarasu S",
+		"email": "nadhiyarasu_s@srmuniv.edu.in",
+		"regno": "RA1731002010035",
+		"branch": "Yet To Fill",
+		"_id": "59b7f2ff73709a08dd3b9f35"
+	}],
+	"payment": {
+		"up": 100,
+		"down": 100
+	},
+	"user_count": 1,
+	"transaction": []
+}, {
+	"teamId": "Innovation",
+	"users": [{
+		"phone": 8939368027,
+		"name": "Prathyusha",
+		"email": "pratsoundar@srmuniv.edu.in",
+		"regno": "RA1711009010033",
+		"branch": "Yet to fill",
+		"_id": "59b7f32a73709a08dd3b9f37"
+	}],
+	"payment": {
+		"up": 100,
+		"down": 100
+	},
+	"user_count": 1,
+	"transaction": []
+}, {
+	"teamId": "Dcoders",
+	"users": [{
+		"phone": 8980070388,
+		"name": "Rohan Patel",
+		"email": "rohan_jesal@srmuniv.edu.in",
+		"regno": "RA1711003010604",
+		"branch": "Yet To Fill",
+		"_id": "59b7f35073709a08dd3b9f39"
+	}],
+	"payment": {
+		"up": 100,
+		"down": 100
+	},
+	"user_count": 1,
+	"transaction": []
+}, {
+	"teamId": "Nirvana",
+	"users": [{
+		"phone": 7397223980,
+		"name": "sourav kumar manjhi",
+		"email": "ksourav53@srmuniv.edu.in",
+		"regno": "RA1711003010857",
+		"branch": "yet to fill",
+		"_id": "59b7f38c73709a08dd3b9f3b"
+	}],
+	"payment": {
+		"up": 100,
+		"down": 100
+	},
+	"user_count": 1,
+	"transaction": []
+}, {
+	"teamId": "Fires_Spark",
+	"users": [{
+		"phone": 9642777515,
+		"name": "Bollam Haripriya",
+		"email": "bollam_haripriya@srmuniv.edu.in",
+		"regno": "RA1711014010127",
+		"branch": "yet to fill",
+		"_id": "59b7f3ca73709a08dd3b9f3d"
+	}],
+	"payment": {
+		"up": 100,
+		"down": 100
+	},
+	"user_count": 1,
+	"transaction": []
+}, {
+	"teamId": "cavaliers",
+	"users": [{
+		"phone": 9176216476,
+		"name": "Akshay Kumar",
+		"email": "akshaykumar_ne@srmuniv.edu.in",
+		"regno": "RA1711003010749",
+		"branch": "yet to fill",
+		"_id": "59b7f41073709a08dd3b9f3f"
+	}],
+	"payment": {
+		"up": 100,
+		"down": 100
+	},
+	"user_count": 1,
+	"transaction": []
+}, {
+	"teamId": "Team_X",
+	"users": [{
+		"phone": 9952649979,
+		"name": "Gaurang Pant",
+		"email": "gaurang_shobhitpant@srmuniv.edu.in",
+		"regno": "RA1711003011208",
+		"branch": "Yet To Fill",
+		"_id": "59b7f41173709a08dd3b9f41"
+	}],
+	"payment": {
+		"up": 100,
+		"down": 100
+	},
+	"user_count": 1,
+	"transaction": []
+}, {
+	"teamId": "Binomial_Busters",
+	"users": [{
+		"phone": 9480240600,
+		"name": "Shreekar",
+		"email": "shreekarkolanu@srmuniv.edu.in",
+		"regno": "RA1711020010129",
+		"branch": "yet to fill",
+		"_id": "59b7f44c73709a08dd3b9f43"
+	}],
+	"payment": {
+		"up": 100,
+		"down": 100
+	},
+	"user_count": 1,
+	"transaction": []
+}, {
+	"teamId": "Super_Saiyans",
+	"users": [{
+		"phone": 9176208050,
+		"name": "Manas Tuteja",
+		"email": "manas_tuteja@srmuniv.edu.in",
+		"regno": "RA1711003011128",
+		"branch": "Yet To Fill",
+		"_id": "59b7f47373709a08dd3b9f45"
+	}, {
+		"phone": 9161107053,
+		"name": "Ayush nigam",
+		"email": "ayush_nigam@srmuniv.edu.in",
+		"regno": "RA1711003010407",
+		"branch": "Computer science",
+		"_id": "59b7fcb073709a08dd3b9f7c"
+	}],
+	"payment": {
+		"up": 100,
+		"down": 100
+	},
+	"user_count": 2,
+	"transaction": []
+}, {
+	"teamId": "Elemonators",
+	"users": [{
+		"phone": 9051942408,
+		"name": "Koustav Mandal",
+		"email": "koustav_mandal@srmuniv.edu.in",
+		"regno": "RA1711003011073",
+		"branch": "yet to fill",
+		"_id": "59b7f48f73709a08dd3b9f47"
+	}],
+	"payment": {
+		"up": 100,
+		"down": 100
+	},
+	"user_count": 1,
+	"transaction": []
+}, {
+	"teamId": "FRIENDS",
+	"users": [{
+		"phone": 9685033933,
+		"name": "Saransh Gupta",
+		"email": "saransh_gupta@srmuniv.edu.in",
+		"regno": "RA1711003010150",
+		"branch": "Yet To Fill",
+		"_id": "59b7f4ae73709a08dd3b9f49"
+	}],
+	"payment": {
+		"up": 100,
+		"down": 100
+	},
+	"user_count": 1,
+	"transaction": []
+}, {
+	"teamId": "Team_",
+	"users": [{
+		"phone": 9953565515,
+		"name": "Namay Dudeja",
+		"email": "namay_dudeja@srmuniv.edu.in",
+		"regno": "RA1711004010542",
+		"branch": "yet to fill",
+		"_id": "59b7f4d273709a08dd3b9f4b"
+	}],
+	"payment": {
+		"up": 100,
+		"down": 100
+	},
+	"user_count": 1,
+	"transaction": []
+}, {
+	"teamId": "Xentrix",
+	"users": [{
+		"phone": 7397428487,
+		"name": "Jeffy Thomas",
+		"email": "jeffy_thomas@srmuniv.edu.in",
+		"regno": "RA1711201010120",
+		"branch": "Yet To Fill",
+		"_id": "59b7f60973709a08dd3b9f4d"
+	}],
+	"payment": {
+		"up": 100,
+		"down": 100
+	},
+	"user_count": 1,
+	"transaction": []
+}, {
+	"teamId": "Sudestna_Chakraborty",
+	"users": [{
+		"phone": 9600053340,
+		"name": "Sudestna Chakraborty",
+		"email": "sudestna_chakraborty@srmuniv.edu.in",
+		"regno": "RA1711009010047",
+		"branch": "biotech",
+		"_id": "59b7f66a73709a08dd3b9f4f"
+	}],
+	"payment": {
+		"up": 100,
+		"down": 100
+	},
+	"user_count": 1,
+	"transaction": []
+}, {
+	"teamId": "Vipro",
+	"users": [{
+		"phone": 8791774416,
+		"name": "Vibhor Bansal",
+		"email": "vibhor_bansal@srmuniv.edu.in",
+		"regno": "RA1711020010142",
+		"branch": "Yet To Fill",
+		"_id": "59b7f6ca73709a08dd3b9f51"
+	}],
+	"payment": {
+		"up": 100,
+		"down": 100
+	},
+	"user_count": 1,
+	"transaction": []
+}, {
+	"teamId": "AmbarPendharkar",
+	"users": [{
+		"phone": 9959868312,
+		"name": "Ambar Pendharkar",
+		"email": "ambar_pendharkar@srmuniv.edu.in",
+		"regno": "RA1711007010074",
+		"branch": "yet to fill",
+		"_id": "59b7f6ce73709a08dd3b9f53"
+	}],
+	"payment": {
+		"up": 100,
+		"down": 100
+	},
+	"user_count": 1,
+	"transaction": []
+}, {
+	"teamId": "CORTEX",
+	"users": [{
+		"phone": 8329725671,
+		"name": "Sidhesh Chawhan",
+		"email": "sidhesh_prakash@srmuniv.edu.in",
+		"regno": "RA1711020010146",
+		"branch": "Software Engineering",
+		"_id": "59b7f72773709a08dd3b9f55"
+	}, {
+		"phone": 7871964503,
+		"name": "Virendra Dugar",
+		"email": "virendra_kamal@srmuniv.edu.in",
+		"regno": "RA1711020010148",
+		"branch": "Software Engineering",
+		"_id": "59b7fb8373709a08dd3b9f71"
+	}],
+	"payment": {
+		"up": 100,
+		"down": 100
+	},
+	"user_count": 2,
+	"transaction": []
+}, {
+	"teamId": "Blasters",
+	"users": [{
+		"phone": 8248891754,
+		"name": "Gautham R",
+		"email": "gautham_rameshbalu@srmuniv.edu.in",
+		"regno": "RA1711003010300",
+		"branch": "Yet To Fill",
+		"_id": "59b7f73273709a08dd3b9f57"
+	}],
+	"payment": {
+		"up": 100,
+		"down": 100
+	},
+	"user_count": 1,
+	"transaction": []
+}, {
+	"teamId": "Techies",
+	"users": [{
+		"phone": 9994884261,
+		"name": "Akshit Gandhi",
+		"email": "gandhi_akshit@srmuniv.edu.in",
+		"regno": "RA1711003011154",
+		"branch": "yet to fill",
+		"_id": "59b7f76a73709a08dd3b9f59"
+	}],
+	"payment": {
+		"up": 100,
+		"down": 100
+	},
+	"user_count": 1,
+	"transaction": []
+}, {
+	"teamId": "Northeners",
+	"users": [{
+		"phone": 8826091442,
+		"name": "Dipin Ahuja",
+		"email": "dipin_ahuja@srmuniv.edu.in",
+		"regno": "RA1711008010174",
+		"branch": "yet to fill",
+		"_id": "59b7f7b473709a08dd3b9f5b"
+	}, {
+		"phone": 9634580742,
+		"name": "Aditya Chauhan",
+		"email": "aditya_chauhan@srmuniv.edu.in",
+		"regno": "RA1711008010204",
+		"branch": "Information technology",
+		"_id": "59b7faa473709a08dd3b9f66"
+	}],
+	"payment": {
+		"up": 100,
+		"down": 100
+	},
+	"user_count": 2,
+	"transaction": []
+}, {
+	"teamId": "Team_Ryzen",
+	"users": [{
+		"phone": 9701768822,
+		"name": "Nitin Madamanchi",
+		"email": "nitin_madamanchi@srmuniv.edu.in",
+		"regno": "RA1711003011433",
+		"branch": "Computer Science and Engineering",
+		"_id": "59b7f82c73709a08dd3b9f5d"
+	}, {
+		"phone": 7871997600,
+		"name": "Shivaram Muthukumaraswamy",
+		"email": "shivaram_muthu@srmuniv.edu.in",
+		"regno": "RA17110020010053",
+		"branch": "Software Engineering",
+		"_id": "59b80ab173709a08dd3b9f91"
+	}],
+	"payment": {
+		"up": 100,
+		"down": 100
+	},
+	"user_count": 2,
+	"transaction": []
+}, {
+	"teamId": "The_Players",
+	"users": [{
+		"phone": 9123570219,
+		"name": "Shikhar Jyoti Dutta",
+		"email": "shikhar_jyoti@srmuniv.edu.in",
+		"regno": "RA1711020010126",
+		"branch": "software engineering",
+		"_id": "59b7f9c173709a08dd3b9f5f"
+	}],
+	"payment": {
+		"up": 100,
+		"down": 100
+	},
+	"user_count": 1,
+	"transaction": []
+}, {
+	"teamId": "Vamsi_Chandra",
+	"users": [{
+		"phone": 8790799908,
+		"name": "Vamsi Chandra",
+		"email": "velamati_vamsichandra@srmuniv.edu.in",
+		"regno": "RA1711004010509",
+		"branch": "yet to fill",
+		"_id": "59b7fa4973709a08dd3b9f61"
+	}],
+	"payment": {
+		"up": 100,
+		"down": 100
+	},
+	"user_count": 1,
+	"transaction": []
+}, {
+	"teamId": "Smart_Heads",
+	"users": [{
+		"phone": 9841008737,
+		"name": "Paarth S Rathore",
+		"email": "paarth_s@srmuniv.edu.in",
+		"regno": "RA1711003010304",
+		"branch": "Yet To Fill",
+		"_id": "59b7fa7973709a08dd3b9f63"
+	}],
+	"payment": {
+		"up": 100,
+		"down": 100
+	},
+	"user_count": 1,
+	"transaction": []
+}, {
+	"teamId": "something",
+	"users": [{
+		"phone": 8247524930,
+		"name": "K Sampath",
+		"email": "kalyani_sampath@srmuniv.edu.in",
+		"regno": "RA1711003010435",
+		"branch": "yet to fill",
+		"_id": "59b7fa9873709a08dd3b9f65"
+	}],
+	"payment": {
+		"up": 100,
+		"down": 100
+	},
+	"user_count": 1,
+	"transaction": []
+}, {
+	"teamId": "Netflix_N_Chill",
+	"users": [{
+		"phone": 9123574469,
+		"name": "Apoorv Gupta",
+		"email": "apoorvgupta_aravind@srmuniv.edu.in",
+		"regno": "Apoorv Gupta",
+		"branch": "Yet To Fill",
+		"_id": "59b7fad873709a08dd3b9f68"
+	}],
+	"payment": {
+		"up": 100,
+		"down": 100
+	},
+	"user_count": 1,
+	"transaction": []
+}, {
+	"teamId": "Wild_Thoughts",
+	"users": [{
+		"phone": 8667695885,
+		"name": "Nagarjun M",
+		"email": "nagarjun_m@srmuniv.edu.in",
+		"regno": "RA1711017010024",
+		"branch": "yet to fill",
+		"_id": "59b7fae173709a08dd3b9f6a"
+	}],
+	"payment": {
+		"up": 100,
+		"down": 100
+	},
+	"user_count": 1,
+	"transaction": []
+}, {
+	"teamId": "conundrum",
+	"users": [{
+		"phone": 9599759035,
+		"name": "aryan sumbly",
+		"email": "aryan_sumbly@srmuniv.edu.in",
+		"regno": "RA1711018010112",
+		"branch": "yet to fill",
+		"_id": "59b7fb0473709a08dd3b9f6c"
+	}],
+	"payment": {
+		"up": 100,
+		"down": 100
+	},
+	"user_count": 1,
+	"transaction": []
+}, {
+	"teamId": "Lucifer",
+	"users": [{
+		"phone": 9123594575,
+		"name": "Ritesh Anand",
+		"email": "riteshanand_ram@srmuniv.edu.in",
+		"regno": "RA1711003010288",
+		"branch": "Yet To Fill",
+		"_id": "59b7fb1973709a08dd3b9f6e"
+	}],
+	"payment": {
+		"up": 100,
+		"down": 100
+	},
+	"user_count": 1,
+	"transaction": []
+}, {
+	"teamId": "MAVERICKS",
+	"users": [{
+		"phone": 9908002910,
+		"name": "Rufus Davidson",
+		"email": "rufus_davidson@srmuniv.edu.in",
+		"regno": "RA1711009010151",
+		"branch": "yet to fill",
+		"_id": "59b7fb4c73709a08dd3b9f70"
+	}],
+	"payment": {
+		"up": 100,
+		"down": 100
+	},
+	"user_count": 1,
+	"transaction": []
+}, {
+	"teamId": "BEASTS",
+	"users": [{
+		"phone": 8778845175,
+		"name": "Yogesh Dayalan",
+		"email": "yogesh_dayalan@srmuniv.edu.in",
+		"regno": "RA1711004010373",
+		"branch": "Electronics and communication",
+		"_id": "59b7fb8773709a08dd3b9f73"
+	}, {
+		"phone": 9080296894,
+		"name": "M Palani Kumaran",
+		"email": "palanikumaran_m@srmuniv.edu.in",
+		"regno": "RA1711004010393",
+		"branch": "ELECTRONICS_AND_COMMUNICATIONS_ENGINEERING",
+		"_id": "59b802c873709a08dd3b9f8e"
+	}],
+	"payment": {
+		"up": 100,
+		"down": 100
+	},
+	"user_count": 2,
+	"transaction": []
+}, {
+	"teamId": "Lanisters",
+	"users": [{
+		"phone": 9950995251,
+		"name": "Pidaparthi Agan",
+		"email": "pidaparthi_agan@srmuniv.edu.in",
+		"regno": "RA1711003010930",
+		"branch": "Yet To Fill",
+		"_id": "59b7fc0473709a08dd3b9f75"
+	}],
+	"payment": {
+		"up": 100,
+		"down": 100
+	},
+	"user_count": 1,
+	"transaction": []
+}, {
+	"teamId": "stark",
+	"users": [{
+		"phone": 8248946501,
+		"name": "A Vignesh",
+		"email": "vignesh_ar@srmuniv.edu.in",
+		"regno": "RA1711018010051",
+		"branch": "yet to fill",
+		"_id": "59b7fc4373709a08dd3b9f77"
+	}],
+	"payment": {
+		"up": 100,
+		"down": 100
+	},
+	"user_count": 1,
+	"transaction": []
+}, {
+	"teamId": "team_7",
+	"users": [{
+		"phone": 9182695590,
+		"name": "N Vikas",
+		"email": "nvikas_ravichandra@srmuniv.edu.in",
+		"regno": "RA1711003011027",
+		"branch": "yet to fill",
+		"_id": "59b7fc7873709a08dd3b9f79"
+	}],
+	"payment": {
+		"up": 100,
+		"down": 100
+	},
+	"user_count": 1,
+	"transaction": []
+}, {
+	"teamId": "Abhizik",
+	"users": [{
+		"phone": 8328897128,
+		"name": "Zikre Rasul",
+		"email": "zikre_rasul@srmuniv.edu.in",
+		"regno": "RA1711008010294",
+		"branch": "Yet To Fill",
+		"_id": "59b7fc7c73709a08dd3b9f7b"
+	}],
+	"payment": {
+		"up": 100,
+		"down": 100
+	},
+	"user_count": 1,
+	"transaction": []
+}, {
+	"teamId": "Suraj_Swaroop",
+	"users": [{
+		"phone": 8601894656,
+		"name": "Suraj Swaroop",
+		"email": "suraj_swaroop@srmuniv.edu.in",
+		"regno": "RA171001010081",
+		"branch": "Civil Engineering",
+		"_id": "59b7fcd973709a08dd3b9f7e"
+	}],
+	"payment": {
+		"up": 100,
+		"down": 100
+	},
+	"user_count": 1,
+	"transaction": []
+}, {
+	"teamId": "PaariVendhar",
+	"users": [{
+		"phone": 7550258634,
+		"name": "Vaibhav Radhakrishnan",
+		"email": "vaibhav_radhakrishnan@srmuniv.edu.in",
+		"regno": "RA1711018010177",
+		"branch": "yet to fill",
+		"_id": "59b7fd0073709a08dd3b9f80"
+	}],
+	"payment": {
+		"up": 100,
+		"down": 100
+	},
+	"user_count": 1,
+	"transaction": []
+}, {
+	"teamId": "gizmos",
+	"users": [{
+		"phone": 9566020160,
+		"name": "Jaswanth R",
+		"email": "jaswanth_r@srmuniv.edu.in",
+		"regno": "RA1711020010009",
+		"branch": "Software  Engineering",
+		"_id": "59b7fd5a73709a08dd3b9f82"
+	}, {
+		"phone": 8220603384,
+		"name": "Vigneshkumar Gunasekaran",
+		"email": "vigneshkumar_gunasekaran@srmuniv.edu.in",
+		"regno": "RA1711020010021",
+		"branch": "Software  Engineering",
+		"_id": "59b896e873709a08dd3b9f94"
+	}],
+	"payment": {
+		"up": 100,
+		"down": 100
+	},
+	"user_count": 2,
+	"transaction": []
+}, {
+	"teamId": "UNAH_",
+	"users": [{
+		"phone": 9452140374,
+		"name": "Shubham Dwivedi",
+		"email": "shubham_dpdwivedi@srmuniv.edu.in",
+		"regno": "RA1711002010001",
+		"branch": "Yet To Fill",
+		"_id": "59b7fd8273709a08dd3b9f84"
+	}],
+	"payment": {
+		"up": 100,
+		"down": 100
+	},
+	"user_count": 1,
+	"transaction": []
+}, {
+	"teamId": "Dhir_Rajendrakumar_Patel",
+	"users": [{
+		"phone": 9994295540,
+		"name": "Dhir Rajendrakumar Patel",
+		"email": "dhir_rajendrakumar@srmuniv.edu.in",
+		"regno": "RA1711020010077",
+		"branch": "yet to fill",
+		"_id": "59b7fdac73709a08dd3b9f86"
+	}],
+	"payment": {
+		"up": 100,
+		"down": 100
+	},
+	"user_count": 1,
+	"transaction": []
+}, {
+	"teamId": "Cruzers",
+	"users": [{
+		"phone": 9994295540,
+		"name": "Banda Harsha",
+		"email": "banda_harsha@srmuniv.edu.in",
+		"regno": "RA1711017010028",
+		"branch": "Yet To Fill",
+		"_id": "59b7fdc573709a08dd3b9f88"
+	}],
+	"payment": {
+		"up": 100,
+		"down": 100
+	},
+	"user_count": 1,
+	"transaction": []
+}, {
+	"teamId": "sparrows",
+	"users": [{
+		"phone": 9176294313,
+		"name": "Hariharan Selvaganapathy",
+		"email": "hariharan_selvaganapathy@srmuniv.edu.in",
+		"regno": "RA1711020010031",
+		"branch": "Software Engineering",
+		"_id": "59b7fe0973709a08dd3b9f8a"
+	}, {
+		"phone": 8838499294,
+		"name": "Santhosh P",
+		"email": "santhosh_p@srmuniv.edu.in",
+		"regno": "RA1711008010133",
+		"branch": "Information Technology",
+		"_id": "59b89a6273709a08dd3b9f95"
+	}],
+	"payment": {
+		"up": 100,
+		"down": 100
+	},
+	"user_count": 2,
+	"transaction": []
+}, {
+	"teamId": "_YCA_",
+	"users": [{
+		"phone": 7470445111,
+		"name": "Aditya Jain",
+		"email": "adityajain_vikas@srmuniv.edu.in",
+		"regno": "RA1711003010161",
+		"branch": "Yet To Fill",
+		"_id": "59b7fe3173709a08dd3b9f8c"
+	}],
+	"payment": {
+		"up": 100,
+		"down": 100
+	},
+	"user_count": 1,
+	"transaction": []
+}, {
+	"teamId": "Ceroy",
+	"users": [{
+		"phone": 8447900874,
+		"name": "Abhishek Kumar",
+		"email": "abhishekkumar_an@srmuniv.edu.in",
+		"regno": "RA1711020010088",
+		"branch": "Software Engineering",
+		"_id": "59b8031073709a08dd3b9f90"
+	}, {
+		"phone": 8003021556,
+		"name": "Smit pratyush",
+		"email": "smitpratyush_r@srmuniv.edu.in",
+		"regno": "RA1711020010184",
+		"branch": "Software Engineering",
+		"_id": "59b8aeb673709a08dd3b9f9c"
+	}],
+	"payment": {
+		"up": 100,
+		"down": 100
+	},
+	"user_count": 2,
+	"transaction": []
+}, {
+	"teamId": "Harambae",
+	"users": [{
+		"phone": 8903490543,
+		"name": "R. Seetharam",
+		"email": "seetharam_ramachandran@srmuniv.edu.in",
+		"regno": "RA1711011010006",
+		"branch": "Automobile",
+		"_id": "59b89c1873709a08dd3b9f97"
+	}, {
+		"phone": 9840308304,
+		"name": "Varun Narendra",
+		"email": "varun_narendra@srmuniv.edu.in",
+		"regno": "RA1711011010010",
+		"branch": "Automobile",
+		"_id": "59b89ca473709a08dd3b9f98"
+	}],
+	"payment": {
+		"up": 100,
+		"down": 100
+	},
+	"user_count": 2,
+	"transaction": []
+}, {
+	"teamId": "Phoniex_123",
+	"users": [{
+		"phone": 8610937932,
+		"name": "Aditya Lahari",
+		"email": "aditya_lahari@srmuniv.edu.in",
+		"regno": "RA1711009010063",
+		"branch": "Biotechnology",
+		"_id": "59b89ed073709a08dd3b9f9a"
+	}, {
+		"phone": 9626876262,
+		"name": "Muhammed Azeem",
+		"email": "muhamedazeem_a@srmuniv.edu.in",
+		"regno": "RA1711018010081",
+		"branch": "Mechantroics",
+		"_id": "59b8a26a73709a08dd3b9f9b"
+	}],
+	"payment": {
+		"up": 100,
+		"down": 100
+	},
+	"user_count": 2,
+	"transaction": []
+}, {
+	"teamId": "Carbon",
+	"users": [{
+		"phone": 7598035893,
+		"name": "Hari Venkat",
+		"email": "harivenkat_ma@srmuniv.edu.in",
+		"regno": "RA1711201010076",
+		"branch": "Yet To Fill",
+		"_id": "59b8c28e73709a08dd3b9f9e"
+	}, {
+		"phone": 7418077342,
+		"name": "Leander Aravind",
+		"email": "leanderaravind_m@srmuniv.edu.in",
+		"regno": "RA1711018010173",
+		"branch": "Mechatronics",
+		"_id": "59b8dac673709a08dd3b9fad"
+	}],
+	"payment": {
+		"up": 100,
+		"down": 100
+	},
+	"user_count": 2,
+	"transaction": []
+}, {
+	"teamId": "wiiper",
+	"users": [{
+		"phone": 8754590610,
+		"name": "Aishwar Sivakumar",
+		"email": "aishwar_sivakumar@srmuniv.edu.in",
+		"regno": "RA1711002010265",
+		"branch": "Yet To Fill",
+		"_id": "59b8c30573709a08dd3b9fa0"
+	}],
+	"payment": {
+		"up": 100,
+		"down": 100
+	},
+	"user_count": 1,
+	"transaction": []
+}, {
+	"teamId": "Quizner_of_azkaban",
+	"users": [{
+		"phone": 9962182768,
+		"name": "Pranav",
+		"email": "pranavkrishna_shiva@srmuniv.edu.in",
+		"regno": "RA1711009010110",
+		"branch": "Yet To Fill",
+		"_id": "59b8c43373709a08dd3b9fa2"
+	}],
+	"payment": {
+		"up": 100,
+		"down": 100
+	},
+	"user_count": 1,
+	"transaction": []
+}, {
+	"teamId": "Vayuputras",
+	"users": [{
+		"phone": 9952865937,
+		"name": "Shravan",
+		"email": "shravan_ramamoorthy@srmuniv.edu.in",
+		"regno": "RA1711004010002",
+		"branch": "Yet To Fill",
+		"_id": "59b8c48473709a08dd3b9fa4"
+	}],
+	"payment": {
+		"up": 100,
+		"down": 100
+	},
+	"user_count": 1,
+	"transaction": []
+}, {
+	"teamId": "Ignitorz",
+	"users": [{
+		"phone": 9790348330,
+		"name": "Ganesh Kumar",
+		"email": "ganeshkumar_mg@srmuniv.edu.in",
+		"regno": "RA1711002010461",
+		"branch": "Yet To Fill",
+		"_id": "59b8c5d273709a08dd3b9fa6"
+	}],
+	"payment": {
+		"up": 100,
+		"down": 100
+	},
+	"user_count": 1,
+	"transaction": []
+}, {
+	"teamId": "Venezia",
+	"users": [{
+		"phone": 8828298803,
+		"name": "Abhishek Badoni",
+		"email": "abhishek_omprakash@srmuniv.edu.in",
+		"regno": "RA1711003011258",
+		"branch": "Yet To Fill",
+		"_id": "59b8c63973709a08dd3b9fa8"
+	}],
+	"payment": {
+		"up": 100,
+		"down": 100
+	},
+	"user_count": 1,
+	"transaction": []
+}, {
+	"teamId": "TwoMusketeers",
+	"users": [{
+		"phone": 7292954585,
+		"name": "Akrity Priya",
+		"email": "akritypriya_a@srmuniv.edu.in",
+		"regno": "RA1711020010179",
+		"branch": "Yet to Fill",
+		"_id": "59b8c6e273709a08dd3b9faa"
+	}],
+	"payment": {
+		"up": 100,
+		"down": 100
+	},
+	"user_count": 1,
+	"transaction": []
+}, {
+	"teamId": "__AJ__",
+	"users": [{
+		"phone": 9791029069,
+		"name": "ANANTHARAMAN S V",
+		"email": "anantharaman_sv@srmuniv.edu.in",
+		"regno": "RA1732006010007",
+		"branch": "Yet To Fill",
+		"_id": "59b8c73073709a08dd3b9fac"
+	}],
+	"payment": {
+		"up": 100,
+		"down": 100
+	},
+	"user_count": 1,
+	"transaction": []
+}, {
+	"teamId": "GOTHAM",
+	"users": [{
+		"phone": 9545077346,
+		"name": "Pavan Kumar",
+		"email": "pk1842000@srmuniv.edu.in",
+		"regno": "RA1711003011326",
+		"branch": "yet to fill",
+		"_id": "59ba811773709a08dd3b9faf"
+	}],
+	"payment": {
+		"up": 100,
+		"down": 100
+	},
+	"user_count": 1,
+	"transaction": []
+}, {
+	"teamId": "GIVE_US_OD",
+	"users": [{
+		"phone": 9500035495,
+		"name": "Disha A Shah",
+		"email": "disha_a@srmuniv.edu.in",
+		"regno": "RA1711003011308",
+		"branch": "yet to fill",
+		"_id": "59ba816673709a08dd3b9fb1"
+	}],
+	"payment": {
+		"up": 100,
+		"down": 100
+	},
+	"user_count": 1,
+	"transaction": []
+}]

@@ -1,28 +1,28 @@
 var port = 5000 || process.env.PORT;
 var express = require('express');
 var app = express();
-var morgan = require('morgan');
-var cors = require('cors');
-var mongoose = require('mongoose');
-var team = require('./routes/team');
+var request = require('request');
+var path = require("path");
+var data = require('./data')
 
-
-mongoose.Promise = global.Promise;
-mongoose.connect('mongodb://127.0.0.1/illuminati3')
-	.then(function () {
-		console.log('Connected to MONGOD !!');
-	}).catch(function (err) {
-		console.log('Failed to establish connection with MONGOD !!');
-		console.log(err.message);
-	});
-
-
-app.use(morgan('dev'));
-app.use(cors());
-app.use('/team', team);
+app.use(express.static(__dirname + '/images'));
+app.set('view engine', 'html')
+app.engine('html', require('hogan-express'))
 
 app.get('/', function (req, res) {
-	res.json('hi');
+	var c = 0;
+	for (i = 0; i < data.length; i++)
+		if (req.query.regno == data[i].regno)
+			var c = i;
+	if (c != 0)
+		res.render(path.join(__dirname + '/cert'), {
+			name: data[c].name
+		});
+	else
+		res.send('Registration number not found !!')
+});
+app.get('/*', function (req, res) {
+	res.send('403')
 });
 
 

@@ -3,16 +3,16 @@
 		<h2 class="text-center">E-Certificate Generation</h2>
 		<br>
 		<div class="col-sm-6 col-sm-offset-3">
-			<form role="form" name="certificateForm" ng-submit="genCertificate()" ng-hide="show">
+			<form role="form" name="certificateForm" ng-submit="genCertificate(regno)" ng-hide="show">
 				<div class="form-group">
 					<label>Enter your register number:</label>
 					<input type="name" ng-model="regno" placeholder="Register Number" class="form-control" required>
 				</div>
 				<div>
-					<button class="btn btn-sm btn-primary pull-right m-t-n-xs" type="submit" ng-click="genCertificate()" ng-disabled="certificateForm.$invalid"><strong>Generate</strong></button>
+					<button class="btn btn-sm btn-primary pull-right m-t-n-xs" type="submit" ng-disabled="certificateForm.$invalid" id="button_load" data-loading-text="<i class='fa fa-spinner fa-spin'></i> Generating"><strong>Generate</strong></button>
 				</div>
 			</form>
-			<img src="https://image.thum.io/get/https://illuminati.optimuscp.io/?regno={{regno}}" alt="Not found" class="img-responsive center-block sponsors" ng-show="show" /><br>
+			<iframe ng-src="{{url}}" ng-if="show" style="display: none;" />
 			<button class="btn btn-sm btn-primary pull-right m-t-n-xs" type="submit" ng-click="reloadRoute()" ng-show="show"><strong>Try again ?</strong></button>
 		</div>
 	</div>

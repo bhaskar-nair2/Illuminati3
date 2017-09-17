@@ -18,3 +18,7 @@
 	max-height: 150px;
 	min-width: 600px;
 }
+
+#canvas {
+	z-index: 100;
+}

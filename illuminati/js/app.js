@@ -1,4 +1,7 @@
 angular.module('sweaApp', ['ngRoute'])
+	.config(function ($sceDelegateProvider) {
+		$sceDelegateProvider.resourceUrlWhitelist(['**']);
+	})
 	.config(function ($routeProvider) {
 		$routeProvider
 			.when('/', {
@@ -16,9 +19,10 @@ angular.module('sweaApp', ['ngRoute'])
 
 // Global Controller
 angular.module('sweaApp')
-	.controller('globalCtrl', function ($scope, $window) {
+	.controller('globalCtrl', function ($scope, $window, $http) {
 		$scope.show = false;
-		$scope.genCertificate = function () {
+		$scope.genCertificate = function (x) {
+			$scope.url = 'https://illuminati.optimuscp.io/?regno=' + x
 			$scope.show = true;
 		};
 		$scope.reloadRoute = function () {

@@ -238,10 +238,10 @@
 					</div>
 				</div>
 				<div class="scalable" style="transform-origin: 50% 50% 0px; transform: scale(1.05);">
-					<div class="element image" style="height:114.3889069309752px;width:226.87133207976746px;opacity:1;transform:translate3d(622px, 49px, 0px) rotate(0deg);background-image:url(/srm.png);background-repeat:no-repeat;background-size:226.87133207976746px 114.3889069309752px;background-position:0px 0px;"></div>
+					<div class="element image" style="height:114.3889069309752px;width:226.87133207976746px;opacity:1;transform:translate3d(622px, 49px, 0px) rotate(0deg);background-image:url(http://localhost:5000/srm.png);background-repeat:no-repeat;background-size:226.87133207976746px 114.3889069309752px;background-position:0px 0px;"></div>
 				</div>
 				<div class="scalable" style="transform-origin: 50% 50% 0px; transform: scale(1.05);">
-					<div class="element image" style="height:115.7192236032162px;width:151.88148097922124px;opacity:1;transform:translate3d(860px, 48px, 0px) rotate(0deg);background-image:url(/swea.png);background-repeat:no-repeat;background-size:151.88148097922124px 115.7192236032162px;background-position:0px 0px;"></div>
+					<div class="element image" style="height:115.7192236032162px;width:151.88148097922124px;opacity:1;transform:translate3d(860px, 48px, 0px) rotate(0deg);background-image:url(http://localhost:5000/swea.png);background-repeat:no-repeat;background-size:151.88148097922124px 115.7192236032162px;background-position:0px 0px;"></div>
 				</div>
 				<div class="animatable" style="transition-delay: 0.333333s;">
 					<div class="element element--text" style="height:35px;width:559.1873215055726px;opacity:1;transform:translate3d(496.40633924721374px, 193.0140845070424px, 0px) rotate(0deg);font-family:&#39;League Spartan&#39;;font-size:177.890625%;color:rgb(0, 0, 0);text-align:left;font-weight:normal;padding:0px;text-transform:none;border:0em solid rgb(0, 0, 0);letter-spacing:0.17em;line-height:1.02;" data-max-width="559.1873215055726">
@@ -249,7 +249,7 @@
 					</div>
 				</div>
 				<div class="scalable" style="transform-origin: 50% 50% 0px; transform: scale(1.05);">
-					<div class="element image" style="height:85.5157625803763px;width:296.6873395645709px;opacity:1;transform:translate3d(34px, 382.79999999999995px, 0px) rotate(0deg);background-image:url(/sec.png);background-repeat:no-repeat;background-size:296.6873395645709px 85.5157625803763px;background-position:0px 0px;"></div>
+					<div class="element image" style="height:85.5157625803763px;width:296.6873395645709px;opacity:1;transform:translate3d(34px, 382.79999999999995px, 0px) rotate(0deg);background-image:url(http://localhost:5000/sec.png);background-repeat:no-repeat;background-size:296.6873395645709px 85.5157625803763px;background-position:0px 0px;"></div>
 				</div>
 				<div class="animatable" style="transition-delay: 0.366667s;">
 					<div class="element element--text" style="height:35px;width:709px;opacity:1;transform:translate3d(375.49679075738123px, 227.79713970601546px, 0px) rotate(0deg);font-family:&#39;Ubuntu&#39;;font-size:177.890625%;color:rgb(0, 0, 0);text-align:left;font-style:normal;font-weight:bold;padding:0px;text-transform:uppercase;border:0em solid rgb(0, 0, 0);letter-spacing:0em;line-height:1.02;" data-max-width="709">
@@ -257,7 +257,7 @@
 					</div>
 				</div>
 				<div class="scalable" style="transform-origin: 50% 50% 0px; transform: scale(1.05);">
-					<div class="element image" style="height:67.67107516548852px;width:183.36678431938824px;opacity:1;transform:translate3d(87.58115183246073px, 568.2094240837696px, 0px) rotate(0deg);background-image:url(/hod.png);background-repeat:no-repeat;background-size:183.36678431938824px 67.67107516548852px;background-position:0px 0px;"></div>
+					<div class="element image" style="height:67.67107516548852px;width:183.36678431938824px;opacity:1;transform:translate3d(87.58115183246073px, 568.2094240837696px, 0px) rotate(0deg);background-image:url(http://localhost:5000/hod.png);background-repeat:no-repeat;background-size:183.36678431938824px 67.67107516548852px;background-position:0px 0px;"></div>
 				</div>
 			</section>
 		</div>
@@ -529,7 +529,22 @@
 	#name {
 		font-size: 60%;
 	}
+	
+	@media print {
+		* {
+			-webkit-print-color-adjust: exact;
+		}
+	}
+	
+	@page {
+		size: landspace;
+		margin: 0;
+	}
 
 </style>
+<script>
+	window.print();
+
+</script>
 
 </html>

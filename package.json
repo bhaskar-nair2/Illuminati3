@@ -1,23 +1,23 @@
 {
-	"name": "swea_hackathon_portal",
-	"version": "1.0.0",
-	"description": "",
-	"main": "server.js",
-	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1"
-	},
-	"author": "",
-	"license": "ISC",
-	"dependencies": {
-		"body-parser": "^1.17.0",
-		"cors": "^2.8.1",
-		"express": "^4.15.2",
-		"hat": "0.0.3",
-		"mongoose": "^4.8.1",
-		"morgan": "^1.8.1",
-		"node-cron": "^1.2.1",
-		"sendgrid": "^4.8.2",
-		"hogan-express": "^0.5.2",
-		"request": "^2.81.0"
-	}
+  "name": "swea_hackathon_portal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.0",
+    "cors": "^2.8.4",
+    "express": "^4.15.2",
+    "hat": "0.0.3",
+    "hogan-express": "^0.5.2",
+    "mongoose": "^4.8.1",
+    "morgan": "^1.8.1",
+    "node-cron": "^1.2.1",
+    "request": "^2.81.0",
+    "sendgrid": "^4.8.2"
+  }
 }
